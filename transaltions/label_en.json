@@ -306,5 +306,6 @@
   "tryAgain": "Try Again",
   "continueAsGuest": "Continue as Guest",
   "verifyFaceIdButton": "Verify Face button",
-  "faqs": "FAQs"
+  "faqs": "FAQs",
+  "Outlet": "Dynamic PLP",
 }
